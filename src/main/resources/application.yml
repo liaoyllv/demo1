@@ -1,0 +1,12 @@
+# Tomcat
+server:
+  port: 8001
+  servlet:
+    context-path: /api
+
+
+logging:
+  level:
+    root: INFO
+    com:
+      jsy: DEBUG
