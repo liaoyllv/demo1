@@ -9,4 +9,4 @@ logging:
   level:
     root: INFO
     com:
-      jsy: DEBUG
+      ky: DEBUG
