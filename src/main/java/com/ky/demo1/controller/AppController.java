@@ -15,4 +15,9 @@ public class AppController {
     public String index() {
         return "index.html";
     }
+
+    @GetMapping("/testWebHook")
+    public String test() {
+        return "testWebHook";
+    }
 }
