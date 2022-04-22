@@ -18,6 +18,6 @@ public class AppController {
 
     @GetMapping("/testWebHook")
     public String test() {
-        return "testWebHook122211";
+        return "testWebHook";
     }
 }
